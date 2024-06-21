@@ -1,2 +1,2 @@
 nginx
-platform-specific
+eclipse-temurin:11-jre-focal
